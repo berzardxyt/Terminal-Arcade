@@ -32,6 +32,7 @@ def calcular():
                     break
                 elif stop.lower() == "n":
                     run = False
+                    break
                 else:
                     print("Escolha y ou n!")
         except ValueError:
