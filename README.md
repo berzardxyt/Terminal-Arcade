@@ -3,8 +3,8 @@ Terminal Arcade é um projeto em Python que reúne mini-jogos jogáveis direto n
 
 Jogos atuais
 
-- Calculadora
-- Pedra, Papel e Tesoura
+- Calculadora (não disponível ainda por causa de bugs 😕)
+- Pedra, Papel e Tesoura 
 
 Objetivo
 
